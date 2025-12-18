@@ -22,19 +22,28 @@ Etapa 1:
   O resultado é uma infraestrutura elástica, mais barata e mais eficiente.
 
 Etapa 2: 
-- [Nome da ferramenta]
-- [Foco da ferramenta]
-- [Descricao de caso de uso]
+- Amazon S3
+- Foco da ferramenta: Armazenamento escalável, durável e com custo otimizado
+- Descrição de caso de uso: Soluções on‑premises de armazenamento exigem compra de discos, expansão de racks,
+ manutenção de SAN/NAS, energia e refrigeração. O Amazon S3 substitui esse modelo com armazenamento praticamente
+ ilimitado e cobrança por uso. Ao migrar backups, arquivos estáticos e dados históricos para S3, empresas reduzem
+ custos de armazenamento em 40% a 80%, especialmente ao usar classes como S3 Glacier e Glacier Deep Archive para
+ arquivamento de longo prazo. A durabilidade de 99,999999999% (11 9s) elimina a necessidade
+ de replicações físicas complexas.
 
 Etapa 3: 
-- [Nome da ferramenta]
-- [Foco da ferramenta]
-- [Descricao de caso de uso]
+- AWS Lambda
+- Foco da ferramenta: Execução de código sob demanda sem servidores dedicados
+- Descrição de caso de uso: Em ambientes tradicionais, mesmo aplicações com baixa utilização precisam de servidores
+  dedicados, gerando custos fixos e ociosidade. O AWS Lambda cobra apenas pelo tempo de execução, reduzindo drasticamente
+  o custo de workloads event‑driven, APIs leves, automações e integrações. Empresas que substituem servidores on‑premises
+  por Lambda costumam reduzir custos de execução em 50% a 90%, além de eliminar gastos com manutenção, patching e monitoramento
+  de infraestrutura. Isso libera equipes para focar em desenvolvimento e inovação.
 
 
 
 ## Conclusao
-A implementacao de ferramentas na empresa *[nome da empresa] tem como esperado [benefi­cios das ferramentas]*, o que aumentarao a eficiencia e a produtividade da empresa. Recomenda-se a continuidade da utilizacao das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+A implementacao de ferramentas na empresa Abstergo Industries tem como esperado a economia, escalabilidade automática, armazenamento barato e execução sob demanda sem servidores, o que aumentarao a eficiencia e a produtividade da empresa. Recomenda-se a continuidade da utilizacao das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
 
@@ -42,4 +51,5 @@ A implementacao de ferramentas na empresa *[nome da empresa] tem como esperado [
 
 Assinatura do Responsavel pelo Projeto:
 
-[Nome do ResponsÃ¡vel pelo Projeto]
+Rodrigo Gaiotto - gaiotto@gmail.com
+Systems Engineer / IT Architect
